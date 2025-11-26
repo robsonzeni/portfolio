@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@config "../tailwind.config.js";
+
+@layer utilities {
+  .glass {
+    @apply backdrop-blur-md bg-white/5 border border-white/10;
+  }
+  .glass-dark {
+    @apply backdrop-blur-md bg-black/20 border border-white/5;
+  }
+}
+
+body {
+  @apply bg-black text-zinc-200;
+}
