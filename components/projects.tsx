@@ -9,19 +9,19 @@ const projects = [
   {
     title: "Transformando Dados em Defesa Contra o Tráfico Internacional",
     category: "UX/UI Design",
-    image: "/images/hero-image-creatus.png",
+    image: "/portfolio/images/hero-image-creatus.png",
     link: "#",
   },
   {
     title: "Aproximando Equipes, Processos e Clientes",
     category: "Product Design",
-    image: "/images/hero-image-r2pharma.png",
+    image: "/portfolio/images/hero-image-r2pharma.png",
     link: "#",
   },
   {
     title: "Conectando Forças para Garantir Respostas Mais Rápidas e Humanas",
     category: "Sistema Web e Mobile App",
-    image: "/images/hero-image-dgt.png",
+    image: "/portfolio/images/hero-image-dgt.png",
     link: "#",
   },
 ];

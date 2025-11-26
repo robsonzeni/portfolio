@@ -30,7 +30,7 @@ export const About = () => {
                 <Image
                   alt="Profile picture"
                   className="object-cover w-full h-[465px]"
-                  src="/images/profile-picture.jpeg"
+                  src="/portfolio/images/profile-picture.jpeg"
                   radius="none"
                   removeWrapper
                   isBlurred
