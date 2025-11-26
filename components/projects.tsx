@@ -70,14 +70,14 @@ export const Projects = () => {
                 {/* Footer with Blur and Button */}
                 <CardFooter className="absolute bottom-0 z-20 justify-between border-t border-white/10 bg-black/40 backdrop-blur-2xl p-8 w-full translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-out">
                   <div>
-                    <p className="text-base text-white/80 font-light">View Project Details</p>
+                    <p className="text-base text-white/80 font-light">Em breve...</p>
                   </div>
                   <Button 
                     className="text-sm font-semibold bg-white text-black hover:bg-zinc-200 border-none px-8 py-6" 
                     radius="full" 
                     size="lg" 
                   >
-                    View Case Study
+                    Em breve...
                   </Button>
                 </CardFooter>
               </Card>
